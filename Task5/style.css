@@ -1,0 +1,20 @@
+
+  * {
+  margin:0;
+}
+.main{
+  border:solid black 13px;
+  background-color:#800020;
+  color:white;
+  border-radius:8px;
+  width:400px;
+}
+.body {
+  background-color:#d2042d;
+  margin-top:2px;
+}
+.body img{
+  border:solid gold;
+  max-height:100%;
+  float:right;
+    }
